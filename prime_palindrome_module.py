@@ -1,0 +1,1 @@
+from cs520_inclass_exercise1codes import is_palindrome, is_prime
